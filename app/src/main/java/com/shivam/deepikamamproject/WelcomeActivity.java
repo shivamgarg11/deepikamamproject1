@@ -11,11 +11,11 @@ public class WelcomeActivity extends AwesomeSplash {
 
     @Override
     public void initSplash(ConfigSplash configSplash) {
-        configSplash.setBackgroundColor(R.color.colorAccent);
+        configSplash.setBackgroundColor(R.color.colorPrimary);
         configSplash.setAnimCircularRevealDuration(2000);
         configSplash.setRevealFlagX(Flags.REVEAL_RIGHT);
         configSplash.setRevealFlagY(Flags.REVEAL_BOTTOM);
-        configSplash.setLogoSplash(R.mipmap.logo);
+        configSplash.setLogoSplash(R.mipmap.logo2);
         configSplash.setAnimLogoSplashDuration(2000);
         configSplash.setAnimLogoSplashTechnique(Techniques.ZoomIn);
         configSplash.setTitleSplash("Computer Networking");

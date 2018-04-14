@@ -69,7 +69,7 @@ public class GoBackN extends android.app.Fragment {
                                 wb.getSettings().setDisplayZoomControls(true);
                                 wb.animate();
                                 wb.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
-                                wb.loadUrl("");
+                                wb.loadUrl("https://ide.codingblocks.com/#/s/9941");
 
                                 break;
                         }
