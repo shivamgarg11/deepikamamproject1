@@ -25,6 +25,7 @@
     </ScrollView>
 
     <WebView
+        android:layout_weight="1"
         android:id="@+id/web6"
         android:visibility="gone"
         android:layout_width="match_parent"

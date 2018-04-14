@@ -52,6 +52,7 @@ public class LinkState extends android.app.Fragment {
                                 textView.setVisibility(View.VISIBLE);
                                 break;
                             case R.id.code:
+                                wb.setVisibility(View.VISIBLE);
                                 scroll1.setVisibility(View.GONE);
                                 textView.setVisibility(View.GONE);
                                 wb.setWebViewClient(new AOVD.MyBrowser());
