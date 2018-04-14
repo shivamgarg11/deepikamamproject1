@@ -69,7 +69,7 @@ final ScrollView scroll1=rootview.findViewById(R.id.scrol1);
                                 wb.getSettings().setDisplayZoomControls(true);
                                 wb.animate();
                                 wb.setScrollBarStyle(View.SCROLLBARS_INSIDE_OVERLAY);
-                                wb.loadUrl("");
+                                wb.loadUrl("https://ide.codingblocks.com/#/s/9944");
 
                                 break;
                         }

@@ -28,6 +28,7 @@
     <WebView
         android:layout_weight="1"
         android:id="@+id/web2"
+
         android:visibility="gone"
         android:layout_width="match_parent"
         android:layout_height="match_parent">
